@@ -7,12 +7,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Our dogs do so much for us and our mental health, and there's no better way to give back than to take them out and see the world. Dog parks can be a dicey gamble depending on location, etiquette, usuals, and overall environment.
+
+We want users to be able to find parks and local meetup spots in order to provide better socialization opportunities and enrichment for their dogs. Users can locate and commune with fellow dog enthusiasts based on the category of dog (size, age, temperament, etc.) and activity and users in their area.
 ### Features
-Include Features here
+Create unique dog-inspired events and invite desired companions
+Calendar Integrations
+Users will have the ability to create an account
+Users can be authenticated
+Add friends
+Search events and parks based on location - Google Maps
+Location-Based Weather - Google Maps
+Sort potential playmates by size, age, temperament, etc.
 ### Technologies
-Include Technologies here
+SQL
+HTML
+CSS
+Node.js/Java
+Angular/Springboot
 ### What I'll Have to Learn
-Include what you will need to learn here
+Public APIs
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/1uO2vv7O/liftoff-project-board
+
